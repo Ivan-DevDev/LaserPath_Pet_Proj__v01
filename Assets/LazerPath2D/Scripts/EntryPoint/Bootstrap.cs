@@ -32,8 +32,7 @@ namespace Assets.LazerPath2D.Scripts.EntryPoint
             yield return null;
 
             loadingCurtain.Hide();
-
-            // load main menu
+          
             sceneSwitcher.ProcessSwitchSceneFor(new OutputBootstrapArgs(new MainMenuInputArgs()));
         }
     }
