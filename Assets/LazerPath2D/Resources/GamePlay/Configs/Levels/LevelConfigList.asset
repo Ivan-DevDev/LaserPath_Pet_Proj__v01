@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1b206289f92f604cb5df85d7fcf406f, type: 3}
+  m_Name: LevelConfigList
+  m_EditorClassIdentifier: Assembly-CSharp::Assets.LazerPath2D.Scripts.Configs.GamePlay.Levels.LevelConfigList
+  _levelsConfigList:
+  - {fileID: 11400000, guid: 28ad7e7bc32f16f47aca181305043a21, type: 2}
+  - {fileID: 11400000, guid: b5341d939a3b25d469360b80b4263d0d, type: 2}
+  - {fileID: 11400000, guid: c0591ed548166c0408aa05eb0e3c69bd, type: 2}
+  - {fileID: 11400000, guid: 7ef14f09781e4124a873be1fd541e4b7, type: 2}
+  - {fileID: 11400000, guid: 0a37c2b3607e4084cbf3766d37fd27b2, type: 2}
+  - {fileID: 11400000, guid: 1956ec6eaf625534fa29e074b0f091a0, type: 2}
+  - {fileID: 11400000, guid: 4c0cd719674e6674a888bfa942125724, type: 2}
+  _levelsColorList:
+  - <LaserColor>k__BackingField: {r: 0.3326808, g: 0.9056604, b: 0.03844783, a: 2.9419608}
+    <ContourColor>k__BackingField: {r: 0.9528302, g: 0.93934673, b: 0.93934673, a: 1}
+    <ActiveFillColor>k__BackingField: {r: 0.229409, g: 0.49056602, b: 0.09487361, a: 1}
+    <DeactiveFillColor>k__BackingField: {r: 1, g: 1, b: 1, a: 0.12156863}
+    <OtherColor>k__BackingField: {r: 1, g: 0.9540102, b: 0.4669811, a: 1}
+    <GamePlayBackgroundColor>k__BackingField: {r: 0.14901961, g: 0.09019608, b: 0.09019608, a: 1}
+  - <LaserColor>k__BackingField: {r: 0.08018869, g: 0.7105164, b: 1, a: 2.9419608}
+    <ContourColor>k__BackingField: {r: 0.9528302, g: 0.93934673, b: 0.93934673, a: 1}
+    <ActiveFillColor>k__BackingField: {r: 0.0033819948, g: 0.4927071, b: 0.7169812, a: 2.9419608}
+    <DeactiveFillColor>k__BackingField: {r: 1, g: 1, b: 1, a: 0.12156863}
+    <OtherColor>k__BackingField: {r: 1, g: 0.91664517, b: 0.3915094, a: 1}
+    <GamePlayBackgroundColor>k__BackingField: {r: 0.14228573, g: 0.098809525, b: 0.16600001, a: 1}
+  - <LaserColor>k__BackingField: {r: 0.8784314, g: 0.7411765, b: 0.09411765, a: 1}
+    <ContourColor>k__BackingField: {r: 0.9528302, g: 0.93934673, b: 0.93934673, a: 1}
+    <ActiveFillColor>k__BackingField: {r: 0.8784314, g: 0.7411765, b: 0.09411765, a: 0.9137255}
+    <DeactiveFillColor>k__BackingField: {r: 1, g: 1, b: 1, a: 0.12156863}
+    <OtherColor>k__BackingField: {r: 1, g: 0.2588235, b: 0.5847822, a: 1}
+    <GamePlayBackgroundColor>k__BackingField: {r: 0.12678571, g: 0.213, b: 0.19017857, a: 1}

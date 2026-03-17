@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80f0456657adcce45b0c4208a7ad85fb, type: 3}
+  m_Name: CameraConfig
+  m_EditorClassIdentifier: Assembly-CSharp::Assets.LazerPath2D.Scripts.Configs.GamePlay.Camera.CameraConfig
+  ImpactTime: 0.2
+  ImpactForce: 0.3
+  ImpulseTypes: 2
+  DefaultVelocity: {x: 0.05, y: -0.7, z: 0}
+  ImpulseCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 3.1462874
+      outSlope: 3.1462874
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.115909085
+    - serializedVersion: 3
+      time: 0.16904199
+      value: 0.49666196
+      inSlope: -0.003315411
+      outSlope: -0.003315411
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.9818472
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.309932
+      value: -0.39018315
+      inSlope: -0.010037205
+      outSlope: -0.010037205
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.68570936
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.49056756
+      value: 0.18009579
+      inSlope: 0.015547393
+      outSlope: 0.015547393
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.8854437
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.60662615
+      value: -0.2022337
+      inSlope: -0.0077515757
+      outSlope: -0.0077515757
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 1
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.7677891
+      value: 0.08738289
+      inSlope: 0.0080635585
+      outSlope: 0.0080635585
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.8723955
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.82674617
+      value: -0.05065126
+      inSlope: 0.00021683038
+      outSlope: 0.00021683038
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 1
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.9012289
+      value: 0.03806309
+      inSlope: 0.018170023
+      outSlope: 0.018170023
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 1
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.9504624
+      value: -0.0323129
+      inSlope: -0.003337907
+      outSlope: -0.003337907
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 1
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0.6522904
+      outSlope: 0.6522904
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  ListenerGain: 0.4
+  ListenerAmplitude: 0.2
+  ListenerFrequency: 0
+  ListenerDuration: 0

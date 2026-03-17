@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09917c936b6fcfc498e466394d52f50f, type: 3}
+  m_Name: SoundClipsConfigs
+  m_EditorClassIdentifier: Assembly-CSharp::Assets.LazerPath2D.Scripts.Configs.Common.Sound.SoundPrefabsConfigs
+  MusicPlayClips:
+  - {fileID: 8300000, guid: 9b0debee513d0f74686c4010041e292e, type: 3}
+  - {fileID: 8300000, guid: 7f1b5ddf2bf42754c8a6640768529ae7, type: 3}
+  - {fileID: 8300000, guid: 6bbbaa710f95d054d86e5f23d3dc93b1, type: 3}
+  - {fileID: 8300000, guid: fee421105db0d394182d6af191c597ff, type: 3}
+  RotateEmiterNodeClips:
+  - {fileID: 8300000, guid: 50f3a1d9a29dab64aaad501d10a13cec, type: 3}
+  RotateMirrorNodeClips:
+  - {fileID: 8300000, guid: 64ba5bf9cd2c7d44b87db8e0cf85ad7e, type: 3}
+  NodeReceiverCompletedClips:
+  - {fileID: 8300000, guid: fdce51259bdc46144abda09133586cbf, type: 3}
+  - {fileID: 8300000, guid: d721ceda0ed3ebb43887139b687777cd, type: 3}
+  - {fileID: 8300000, guid: ebf22c7e618659442984be91e12ccca6, type: 3}
+  GameOverCompletedClips:
+  - {fileID: 8300000, guid: edd1efabd7c58c247a9b5f3287ef2255, type: 3}
+  - {fileID: 8300000, guid: 73fe537cb6bff134ebe8e4e2eed12e9d, type: 3}
+  UIAnimScalingClips:
+  - {fileID: 8300000, guid: ea08f290f286b6b49abadb58163d8b93, type: 3}
+  UIAnimVibratoClips:
+  - {fileID: 8300000, guid: 59a8845b956f99147b060886534b6e65, type: 3}
+  - {fileID: 8300000, guid: bccf4496b3fe779429b805190271f873, type: 3}
+  UIAnimAttentionClips:
+  - {fileID: 8300000, guid: c06827e5c2ebe2c4982eeaf3b192f4ae, type: 3}
+  - {fileID: 8300000, guid: dd9ef4ba55bf3744e9e1a15afec1ec11, type: 3}
+  UIClikedButtonClips:
+  - {fileID: 8300000, guid: bbc93a74f1ae5d348a9a4261b32dc778, type: 3}
