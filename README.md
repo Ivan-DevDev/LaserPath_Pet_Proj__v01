@@ -1,7 +1,7 @@
 # LaserPath_Pet_Proj_v01
 Pet Project: laser Path is a mobile puzzle game in the hyper-casual puzzle genre in Unity
 <p aling="centre">
-   <img src="https://i.ibb.co/WNhV03bS/Laser-Path-Pet-Proj-v01-02-v02.gif" alt="Project Logo" width="256">
+   <img src="https://i.ibb.co/5X0rM9cW/Laser-Path-Pet-Proj-v01-02-v02.gif" alt="Project Logo" width="256">
 </p>
 
 </p>
